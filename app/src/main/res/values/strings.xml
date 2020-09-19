@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Google Africa Developer Scholarship</string>
+    <string name="learning_leaders_title">Learning Leaders</string>
+    <string name="skill_iq_leaders_title">Skill IQ Leaders</string>
+
+    <string name="desc_learner_image">Learner image</string>
+    <string name="text_retry">Retry</string>
+    <string name="desc_splash_image">splash screen image</string>
+    <string name="desc_gads_header_image">GADS header image</string>
+    <string name="text_project_submission">Project Submission</string>
+    <string name="desc_divider">divider</string>
+    <string name="text_first_name">First Name</string>
+    <string name="text_last_name">Last Name</string>
+    <string name="text_email_address">Email Address</string>
+    <string name="text_project_link">Project on Github (link)</string>
+    <string name="text_submit">Submit</string>
+    <string name="desc_back_button">Back button</string>
+    <string name="text_leaderboard">Leaderboard</string>
+    <string name="text_are_you_sure">Are you sure</string>
+    <string name="text_question_mark">"?"</string>
+    <string name="text_yes">Yes</string>
+    <string name="desc_submission_successful">submission successful image</string>
+    <string name="text_submission_successful">Submission Successful</string>
+    <string name="desc_submission_unsuccessful">submission unsuccessful image</string>
+    <string name="text_submission_not_successful">Submission not Successful</string>
+    <string name="desc_cancel_icon">cancel icon</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
