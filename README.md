@@ -34,8 +34,8 @@ The data is in json format
 <ul>
 <img src="https://github.com/segunfrancis/Top-Learner/blob/master/screenshots/Screenshot_20200912-003559_Top%20Learner.jpg" width="35%" alt="Screen1" hspace="15">
   <img src="https://github.com/segunfrancis/Top-Learner/blob/master/screenshots/Screenshot_20200912-003616_Top%20Learner.jpg" width="35%" alt="Screen5" hspace="15">
-  ![Screenshot_1600528857](https://user-images.githubusercontent.com/12888482/93670611-ec07d580-fa9c-11ea-96d7-d8544e888169.png)
+</ul>
+
+  ![Screenshot_1600528857](https://user-images.githubusercontent.com/12888482/93670611-ec07d580-fa9c-11ea-96d7-d8544e888169.png) 
 ![Screenshot_1600528875](https://user-images.githubusercontent.com/12888482/93670620-fd50e200-fa9c-11ea-854e-f137ad47dbdd.png)
 
-
-</ul>
